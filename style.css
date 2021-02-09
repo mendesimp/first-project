@@ -23,8 +23,23 @@ a{
 }
 
 #fotos-1{
-    margin-top: 50px;
+    margin-top: 200px;
     text-align: center;
     
 }
 
+main{
+    padding: 20px;
+    width: 700px;
+    letter-spacing: .1rem;
+    color:rgb(112, 92, 92);
+    margin-top: 60px;
+}
+footer{
+
+    padding: 20px;
+    font-weight: 900;
+    background-color: rgb(194, 189, 189);
+    margin-top: 200px;
+    text-align: center;
+}
